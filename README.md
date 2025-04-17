@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eljon</h1>
-<h3 align="center">A Computer Scienc student from the Philippines</h3>
+<h3 align="center">A Computer Science student from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekxian&label=Profile%20views&color=0e75b6&style=flat" alt="ekxian" /> </p>
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **eljontangalin@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
